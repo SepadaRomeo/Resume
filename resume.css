@@ -1,4 +1,4 @@
-/* Add this CSS for the horizontal lines */
+
 hr {
     border: 0;
     height: 3px;
@@ -6,7 +6,6 @@ hr {
     margin: 20px 0; /* Adjust the margin above and below the line as needed */
 }
 
-/* Existing CSS styles remain unchanged */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
@@ -51,6 +50,7 @@ h1, h2 {
 
 .profile-picture {
     width: 150px;
+    height: 140px;
     margin-right: 50px;
     margin-top: 30px;
 }
@@ -65,7 +65,7 @@ h1, h2 {
 
 .skills {
     margin-top: 20px;
-    max-width: 150px; /* Adjust the max-width to make the skills area shorter */
+   
 }
 
 .skill {
